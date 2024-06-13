@@ -1,0 +1,12 @@
+What is GIT
+Git is a distributed version control system (VCS) designed to track changes in source code during software development. It allows multiple developers to work on a project simultaneously, manage changes, and collaborate efficiently
+
+What is GITHUB
+GitHub is a web-based platform that provides hosting for software development and version control using Git.
+
+Key features of GitHub include:
+-> Repository Hosting: Users can create repositories to store and manage their code. Repositories can be public or private.
+
+-> Version Control: GitHub leverages Git’s version control system, allowing users to commit changes, create branches, merge code, and handle version histories efficiently.
+
+->Collaboration Tools: GitHub supports collaborative features such as pull requests, code reviews, issues, and discussions, making it easier for teams to work together on projects.
