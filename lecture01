@@ -1,0 +1,5 @@
+What is version control system ?
+
+Building a software requires various tools and while building a software , all engineers need to work collaratively . Now while working on building the software , we need 
+some special checkpoints , where we could directly start working on the software from that point itself. Its just like saving a game , like we have different checkpoints
+in a game. This whole thing is called as Version Control System.
